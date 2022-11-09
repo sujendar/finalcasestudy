@@ -1,0 +1,12 @@
+.example-spacer {
+    flex: 1 1 auto;
+  }
+  .example-icon {
+    padding: 0 14px;
+  }
+  .content {
+    display: flex;
+    justify-content: space-between;
+    column-gap: 20px;
+    padding: 10px 0;
+  }
